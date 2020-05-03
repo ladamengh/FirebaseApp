@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FirebaseApplication</string>
+    <string name="hello_my_beautiful_user">Hello, my beautiful user!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="i_don_t_have_an_account">I don\'t have an account</string>
+    <string name="to_sign_up_enter_the_fields_below">To sign up enter the fields below</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="current_password">Current password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="change_password">Change password</string>
+    <string name="new_password">New password</string>
+    <string name="reset_password">Reset password</string>
+    <string name="i_forgot_my_password">I forgot my password</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="users">Users</string>
+    <string name="users_email_address">Email address</string>
+    <string name="username">Username</string>
+    <string name="additional_information">Additional information</string>
+    <string name="modify_user_s_information">Modify user\'s information</string>
+</resources>
